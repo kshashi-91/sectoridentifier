@@ -1,13 +1,13 @@
 [
-"https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
-"https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
-"https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-"https://cdpprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
-"https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
-"https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html", 
-"https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-"https://connectedhealthnonprod.b2clogin.com/connectedhealthnonprod.onmicrosoft.com/oauth2/authresp", 
-"https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
-"https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-"https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/"
+  "https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
+  "https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
+  "https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
+  "https://cdpprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
+  "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
+  "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
+  "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
+  "https://connectedhealthnonprod.b2clogin.com/connectedhealthnonprod.onmicrosoft.com/oauth2/authresp",
+  "https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
+  "https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
+  "https://wpsprep.trizettoconnect.com/tzf/costestimator/uicostestimator/"
 ]
