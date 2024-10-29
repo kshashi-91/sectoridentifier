@@ -1,6 +1,6 @@
 [
-  "https://connectedhealthnonprod.b2clogin.com/connectedhealthnonprod.onmicrosoft.com/oauth2/authresp",
-  "https://lacprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
-  "https://lacprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-  "https://lacprep.trizettoconnect.com/tzf/costestimator/uicostestimator/"
+  "https://connectedhealthtz.b2clogin.com/connectedhealthtz.onmicrosoft.com/oauth2/authresp",
+  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
+  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
+  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/"
 ]
