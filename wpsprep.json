@@ -1,6 +1,6 @@
 [
-  "https://connectedhealthtz.b2clogin.com/connectedhealthtz.onmicrosoft.com/oauth2/authresp",
-  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
-  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-  "https://lac.trizettoconnect.com/tzf/costestimator/uicostestimator/"
+  "https://pat2.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealth/",
+  "https://pat2.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealth/auth.html",
+  "https://pat2.healthtranzformdev.com/drivingbetterhealth/uidrivingbetterhealth/silent-renew.html",
+  "https://pat2.healthtranzformdev.com/drivingbetterhealth/login/oauth2/code/"
 ]
