@@ -1,14 +1,6 @@
 [
-  "https://csisit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/",
-  "https://csisit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/auth.html",
-  "https://csisit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/silent-renew.html",
-  "https://ghpsit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/", 
-  "https://ghpsit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/auth.html", 
-  "https://ghpsit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/silent-renew.html",
-  "https://vansit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/",
-  "https://vansit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/auth.html",
-  "https://vansit.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/silent-renew.html", 
-  "https://vansit.trizettoconnect.com/drivingbetterhealth/login/oauth2/code/",
-  "https://csisit.trizettoconnect.com/drivingbetterhealth/login/oauth2/code/",
-  "https://ghpsit.trizettoconnect.com/drivingbetterhealth/login/oauth2/code/"
+  "https://ichsit.trizettoconnect.com/tzf/provider/uiprovider/",
+  "https://ichsit.trizettoconnect.com/tzf/provider/uiprovider/auth.html",
+  "https://ichsit.trizettoconnect.com/tzf/provider/uiprovider/silent-renew.html",
+  "https://ichsit.trizettoconnect.com/tzf/provider/login/oauth2/code/"
 ]
