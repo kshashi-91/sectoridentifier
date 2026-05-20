@@ -1,6 +1,6 @@
 [
-  "https://ichprep.trizettoconnect.com/tzf/provider/",
-  "https://ichprep.trizettoconnect.com/tzf/provider/auth.html",
-  "https://ichprep.trizettoconnect.com/tzf/provider/silent-renew.html",
+  "https://ichprep.trizettoconnect.com/tzf/provider/uiprovider/",
+  "https://ichprep.trizettoconnect.com/tzf/provider/uiprovider/auth.html",
+  "https://ichprep.trizettoconnect.com/tzf/provider/uiprovider/silent-renew.html",
   "https://ichprep.trizettoconnect.com/tzf/provider/login/oauth2/code/"
 ]
