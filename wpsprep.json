@@ -1,6 +1,7 @@
 [
-  "https://csisit2.trizettoconnect.com/drivingbetterhealth/",
-  "https://csisit2.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/auth.html",
-  "https://csisit2.trizettoconnect.com/drivingbetterhealth/uidrivingbetterhealth/silent-renew.html",
-  "https://csisit2.trizettoconnect.com/drivingbetterhealth/login/oauth2/code/"
+  "https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/",
+  "https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
+  "https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
+  "https://connectedhealthtz.b2clogin.com/connectedhealthtz.onmicrosoft.com/oauth2/authresp",
+  "https://wps.trizettoconnect.com/drivingbetterhealth/login/oauth2/code/"
 ]
