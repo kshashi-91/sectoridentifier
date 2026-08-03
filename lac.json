@@ -2,6 +2,6 @@
   "https://antprep.trizettoconnect.com/tzf/costestimator/uicostestimator/",
   "https://antprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
   "https://antprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
-  "https://connectedhealthtz.b2clogin.com/connectedhealthtz.onmicrosoft.com/oauth2/authresp",
+  "https://connectedhealthnonprod.b2clogin.com/connectedhealthnonprod.onmicrosoft.com/oauth2/authresp",
   "https://antprep.trizettoconnect.com/tzf/costestimator/login/oauth2/code/"
 ]
